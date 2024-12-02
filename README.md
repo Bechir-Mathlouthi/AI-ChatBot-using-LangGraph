@@ -1,4 +1,4 @@
-# Chatbots With Langgraph
+# Chatbot With Langgraph
 
 This repository demonstrates how to build chatbots using the `langgraph` and `langchain` ecosystems. These tools enable the creation of powerful AI-driven conversational agents with flexible and scalable architectures.
 
