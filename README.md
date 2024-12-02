@@ -38,7 +38,7 @@ Before running this project, ensure you have the following:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/chatbots-with-langgraph.git
+    git clone https://github.com/Bechir-Mathlouthi/AI-ChatBot-using-LangGraph.git
     cd chatbots-with-langgraph
     ```
 
